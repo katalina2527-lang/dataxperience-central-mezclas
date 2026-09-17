@@ -75,6 +75,7 @@ facilitar el monitoreo continuo del cumplimiento de las entregas.
 
 - Notebook con el código y análisis.
 - Presentación final del proyecto.
+- Video de presentación
 
 ## Nota sobre los datos
 
