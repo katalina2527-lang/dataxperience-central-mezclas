@@ -67,10 +67,7 @@ facilitar el monitoreo continuo del cumplimiento de las entregas.
 
 ## Herramientas
 
-- Python
 - Pandas
-- Scikit-learn
-- Matplotlib
 - Google Colab
 - GitHub
 
