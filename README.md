@@ -7,6 +7,12 @@
 - Laura Catalina Mejia
 - Juan Pablo Castañeda
 
+## 🎥 Video de presentación
+
+En el siguiente enlace se encuentra el video de presentación del proyecto:
+
+👉 [Ver video de presentación (https://www.youtube.com/watch?v=wKHIiyvwHN8)
+
 ## Descripción del proyecto
 
 Este proyecto aplica herramientas de ciencia de datos al análisis del
